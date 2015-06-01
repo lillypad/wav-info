@@ -1,0 +1,3 @@
+#include "audioresource.h"
+
+IDW_SOUND1 WAVE ".\\resources\\demo_audio.wav"

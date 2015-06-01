@@ -1,0 +1,37 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+#include "resource.rc"
+#include "audioresource.rc"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,1,1,889
+PRODUCTVERSION 1,1,1,889
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "040904E4"
+		 {
+			 VALUE "CompanyName", "lillychalaudio"
+			 VALUE "FileVersion", "1.0"
+			 VALUE "FileDescription", "WAV File Analysis"
+			 VALUE "InternalName", ""
+			 VALUE "LegalCopyright", "© 2011-2013 Lilly Chalupowski All Rights Reserved"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", ""
+			 VALUE "ProductName", "WAV_INFO"
+			 VALUE "ProductVersion", "1.0"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0409, 1252
+	 }
+}
+
