@@ -9,6 +9,6 @@ Features:
 
 To Register the Program:
 Help -> About
-Name: Lilly
-Company: Arc
-Serial: WjzzrXql
+- Name: Lilly
+- Company: Arc
+- Serial: WjzzrXql
